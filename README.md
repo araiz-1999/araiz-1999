@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araiz-1999&label=Profile%20views&color=0e75b6&style=flat" alt="araiz-1999" /> </p>
 
-<img align="right"> alt="coding" width="400" <img src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
+<img align="right">  <img src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N" alt="coding" width="400"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araiz-1999" alt="araiz-1999" /></a> </p>
 
